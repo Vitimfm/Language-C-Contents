@@ -1,4 +1,4 @@
-## Descrição do repositório
+## Group Description 
 Contém uma função para criar uma estrutura para uma heap. Além de funções para inserir e remover números inteiros nesta heap de forma que respeite os princípios dessa estrutura.
 
 ## Primeiros passos

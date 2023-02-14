@@ -1,5 +1,5 @@
 
-## Descrição 
+## Group Description 
 Contém uma função para criar uma estrutura para o vetor ordenado. Além de funções para inserir e remover números inteiros neste vetor de forma ordenada.
 
 ## Primeiros passos
